@@ -1,5 +1,5 @@
-def addtogether(a,b)
-  return a + b + 5
+def amultipleminus7(a,b)
+  return (a*b)-7
 end
 
-p addtogether(1,2)
+p amultipleminus7(1,2)
